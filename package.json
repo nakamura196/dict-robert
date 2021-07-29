@@ -10,6 +10,7 @@
   "author": "Satoru Nakamura",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.21.1",
     "netlify-lambda": "^2.0.12"
   }
 }
